@@ -1,6 +1,6 @@
 # Unix Server Re-Creation
 
-This assignment implements a small, persistent filesystem shell in C. It
+This project implements a small, persistent filesystem shell in C. It
 models files and directories with an inode table stored in `inodes_list`, and
 stores each inode's contents in a file named after its inode number.
 
